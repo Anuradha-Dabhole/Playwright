@@ -1,0 +1,15 @@
+{
+  "name": "playwright_class",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Anuradha Dabhole",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "tsx": "^4.22.4"
+  }
+}
