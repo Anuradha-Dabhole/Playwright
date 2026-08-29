@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+
+# Playwright outputs
+playwright-report/
+test-results/
+.auth/
+
+# Environment variables (local secrets)
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/settings.json
+*.idea/
+
+# Logs
+*.log
+npm-debug.log*
